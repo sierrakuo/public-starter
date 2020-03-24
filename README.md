@@ -1,2 +1,2 @@
 # public-starter
-first repository for learning
+Starter repository for learning how Git and GitHub work
